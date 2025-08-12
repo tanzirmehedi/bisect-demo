@@ -1,3 +1,4 @@
 "feature: stable implementation v1" 
 "feature: refined logic v2" 
 "NOTE: temporary hack -> BUG" 
+"doc: minor note after hack" 
